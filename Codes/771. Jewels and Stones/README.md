@@ -1,0 +1,2 @@
+Leetcode Problem Link: https://leetcode.com/problems/jewels-and-stones
+My solution Link On LeetCode: https://leetcode.com/problems/jewels-and-stones/solutions/6750835/c-using-unordered-set-0ms-beats-100-by-t-s84g
